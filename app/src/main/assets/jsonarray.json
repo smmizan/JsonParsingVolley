@@ -1,0 +1,53 @@
+ {  
+   "array":[  
+      {  
+         "id":"01",
+         "name": "Mr. Kit",
+         "mail":"kit@mail.com",
+         "address":"Madrid"
+		 
+      },
+      {  
+         "id":"02",
+         "name": "Sakib",
+         "mail":"sakib@mail.com",
+         "address":"Dhaka"
+      },
+      {  
+         "id":"03",
+         "name": "Chang Chu",
+         "mail":"changchu@mail.com",
+         "address":"Sanghai"
+      },
+      {  
+         "id":"04",
+         "name": "Ali Bin Sams",
+         "mail":"alisams@mail.com",
+         "address":"Abu Dhabi"
+      },
+      {  
+         "id":"05",
+         "name": "Rakesh Rahul",
+         "mail":"rakeshrahl@mail.com",
+         "address":"Mumbai"
+      },
+	  {  
+         "id":"06",
+         "name": "Abdr Rashid",
+         "mail":"abdurrashid@mail.com",
+         "address":"Chittaganj"
+      },
+	  	  {  
+         "id":"07",
+         "name": "Mickel Philhep",
+         "mail":"michalplp@mail.com",
+         "address":"Los Angels"
+      },
+	  	  {  
+         "id":"08",
+         "name": "Nimu KH Atih",
+         "mail":"nimukhath@mail.com",
+         "address":"Thimp"
+      }
+   ]
+}
